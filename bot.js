@@ -7,7 +7,7 @@ console.log("Scrpit By PrinceCrafter");
 
 
 client.on("ready", () => {
-let channel = client.channels.get("509450326923804686")
+let channel = client.channels.get("509486790835568644")
 setInterval(function() {
 channel.send(`prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince princeprince prince prince prince prince prince`);
 }, 25)
