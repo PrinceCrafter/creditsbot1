@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("Scrpit By ESMAEL");
+console.log("Scrpit By PrinceCrafter");
 
 
 
@@ -14,17 +14,6 @@ channel.send(`prince prince prince prince prince prince prince prince prince pri
 })
 
 
-
-
-
-
-
-client.on("ready", () => {
-let channel = client.channels.get("509450326923804686")
-setInterval(function() {
-channel.send(`TEST`);
-}, 25)
-})
 
 
 
